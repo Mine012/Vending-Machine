@@ -5,9 +5,9 @@ Logo:
 Nome do projeto: Vending Machine
 
 Integrantes:
-Alvaro 
-Jasmine
-Flávia
+Alvaro, 
+Jasmine,
+Flávia,
 Emanuelli
 
 
